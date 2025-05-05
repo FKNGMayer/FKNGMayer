@@ -2,6 +2,8 @@
 I’m Alex — a junior frontend developer passionate about learning and growing in web development. 🌱  
 Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Next.js**.
 
+---
+
 ### 🧠 Tech I’ve worked with:
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -12,6 +14,8 @@ Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Ne
   <img src="https://img.shields.io/badge/React Query-%23ff4154.svg?style=for-the-badge&logo=react-query&logoColor=white"/>
 </p>
 
+---
+
 ### 🛠️ Tools I use:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
@@ -20,6 +24,8 @@ Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Ne
   <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 </p>
+
+---
 
 ### 📊 GitHub Stats:
 <p align="left">
