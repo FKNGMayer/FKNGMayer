@@ -1,10 +1,10 @@
-### Hi there 👋  
+## Hi there 👋  
 I’m Alex — a junior frontend developer passionate about learning and growing in web development. 🌱  
 Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Next.js**.
 
 ---
 
-### 🧠 Tech I’ve worked with:
+## 🧠 Tech I’ve worked with:
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -16,7 +16,7 @@ Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Ne
 
 ---
 
-### 🛠️ Tools I use:
+## 🛠️ Tools I use:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -27,10 +27,10 @@ Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Ne
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexUsername&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FKNGMayer&show_icons=true&theme=tokyonight"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexUsername&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FKNGMayer&layout=compact&theme=tokyonight"/>
 </p>
