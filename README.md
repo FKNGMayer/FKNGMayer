@@ -33,6 +33,10 @@ Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Ne
   <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 </p>
 
+<a href="https://ggo.cz" target="_blank">
+    ### ggo.cz
+  </a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FKNGMayer&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FKNGMayer&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
