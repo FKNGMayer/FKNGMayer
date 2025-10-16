@@ -33,7 +33,7 @@ Currently diving deeper into **JavaScript**, **TypeScript**, **React**, and **Ne
   <img src="https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 </p>
 
-## <a href="https://ggo.cz" target="_blank">
+<a href="https://ggo.cz" target="_blank">
     ggo.cz
   </a>
 
